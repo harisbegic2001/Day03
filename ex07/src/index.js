@@ -1,11 +1,11 @@
 function main(){
     var studlyCapVar;
     var properCamelCase;
-    var titleCaseOVer;
+    var titleCaseOver;
     
     studlyCapVar = 10;
-    properCamelCase= "A String";
-    titleCaseOver =9000;
+    properCamelCase = "A String";
+    titleCaseOver = 9000;
     return{
         studlyCapVar,
     properCamelCase,
